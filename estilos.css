@@ -140,7 +140,7 @@ td{text-align:right;font:700 1.45rem var(--head);color:var(--mint);white-space:n
 .cy{display:grid;grid-template-columns:1.4fr .8fr;gap:48px;align-items:center}
 .cy h2{color:var(--ink)}
 .price{text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
-.price img{border-radius:50%;margin-bottom:10px}
+.price img{border-radius:18px;border:1px solid rgba(48,240,240,.28);margin-bottom:10px}
 
 .trio{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
 .trio p{color:var(--soft);margin-top:10px;font-size:.96rem}
